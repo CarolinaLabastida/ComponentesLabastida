@@ -1,0 +1,20 @@
+
+.card-title {
+    font-weight: bold;
+}
+
+.card-text{
+    min-height: 80px;
+}
+
+.btn{
+    float: right;
+}
+
+.card-img-top{
+    height: 250px;
+}
+
+#mainText{
+    font-size: 18px;
+}
